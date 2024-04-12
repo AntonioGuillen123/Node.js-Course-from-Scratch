@@ -1,0 +1,20 @@
+{
+  "name": "class-2",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "dev:1": "nodemon httpdefault.js",
+    "dev:2": "nodemon httpmethods.js",
+    "dev:3": "nodemon express.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "nodemon": "3.1.0"
+  },
+  "dependencies": {
+    "express": "4.19.2"
+  }
+}
